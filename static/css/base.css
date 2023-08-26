@@ -45,3 +45,7 @@ header {
 .post-entry h2 a:hover {
     color:red;
 }
+.span {
+    border: 50px;
+    font: bolder;
+}
